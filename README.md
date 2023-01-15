@@ -22,17 +22,45 @@ Contact: Telegram - <a href="https://t.me/NikAfee">@NikAfee</a>
 
 <h2><span> My portfolio:</span></h2>
 
-<h3>Yatube - social network live journal</font></h3>
+
+<h3>Yatube - social network</font></h3>
+
+<p>
+<details>
+<summary>more details</summary><br>
+  
+Here you can write about anything, subscribe to other authors to follow their publications and enjoy the scenery.<br>
+
+![09876](https://user-images.githubusercontent.com/65954444/212558247-e28276a6-dd95-4b15-acf4-fa0d8a3d2970.png)
+  
+<a href="https://github.com/NikAfraim/yatube">Yatube on git</a><br>
+</details>
+</p>
+
+
+<h3>REST API for the Yatube projectk</font></h3>
+
+<p>
+<details>
+<summary>more details</summary><br>
+  
+Implemented with a JWT token to regulate access for different users.<br>
+  
+<a href="https://github.com/NikAfraim/api_yatube">Yatube on git</a><br>
+</details>
+</p>
+
+
+<h3>REST API YaMDb - Database storing data on users' reviews of works</font></h3>
 
 
 <p>
 <details>
-<summary>For more details click below</summary><br>
+<summary>more details</summary><br>
   
-You can create your diary, read others', follow authors and enjoy there publications on subscription page.<br>
-
-![09876](https://user-images.githubusercontent.com/65954444/212558247-e28276a6-dd95-4b15-acf4-fa0d8a3d2970.png)
+The feedback is used to calculate a job rating. You can also comment on other users' reviews.<br>
+This is a team project where I was responsible for the backend.<br>
   
-<a href="https://github.com/NikAfraim/yatube">Yatube on git repo</a><br>
+<a href="https://github.com/NikAfraim/yatube">Yatube on git</a><br>
 </details>
 </p>
