@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Nikita+-+I'm+a+beginner+programmer+and+I+write+programs+in+Python" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi+I'm+Nikita+-+I'm+a+beginner+programmer+and+I+write+programs+in+Python" alt="Typing SVG" /></a>
 </p>
 
 Contact: Telegram - <a href="https://t.me/NikAfee">@NikAfee</a>
