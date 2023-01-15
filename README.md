@@ -5,6 +5,7 @@
 Contact: Telegram - <a href="https://t.me/NikAfee">@NikAfee</a>
 
 ### My stack:
+<p align="center">
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow&style=for-the-badge" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
@@ -14,6 +15,7 @@ Contact: Telegram - <a href="https://t.me/NikAfee">@NikAfee</a>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/gunicorn-white?style=for-the-badge&logo=gunicorn&logoColor=%23092E20.svg" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 </div>
+</p>
