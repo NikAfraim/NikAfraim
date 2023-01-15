@@ -3,5 +3,5 @@
 </p>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow&style=for-the-badge" />
 </div>
