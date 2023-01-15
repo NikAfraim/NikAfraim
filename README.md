@@ -4,7 +4,7 @@
 
 Contact: Telegram - <a href="https://t.me/NikAfee">@NikAfee</a>
 
-###My stack 
+### My stack 
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow&style=for-the-badge" />
 </div>
