@@ -15,5 +15,3 @@ Contact: Telegram - <a href="https://t.me/NikAfee">@NikAfee</a>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 </div>
-
-***
