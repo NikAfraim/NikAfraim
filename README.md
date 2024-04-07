@@ -7,6 +7,9 @@ Contact: Telegram - <a href="https://t.me/NikAfee">@NikAfee</a>
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow&style=for-the-badge" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django%20REST%20FrameWork-firebrick?logo=django-rest-framework&logoColor=red&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-18a7b5?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/sqlalchemy-ff0000?logo=sqlalchemy&logoColor=white&logoSize=400&logoSize=50%&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pydantic-c3185d?logo=pydantic&logoColor=white&logoSize=400&logoSize=50%&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-firebrick?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
